@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm Pratama Andiko</h1>
+<h1 align="center">Hi 👋🏻, I'm Pratama Andiko</h1>
 <h3 align="center">I'm a computer science student at Institut Teknologi Bandung.</h3>
 
 ---
