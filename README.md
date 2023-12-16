@@ -10,9 +10,6 @@
 
 ---
 
-![Andiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratamaandiko&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratamaandiko&layout=compact&theme=radical)](https://github.com/pratamaandiko/github-readme-stats)
----
-
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=pratamaandiko.pratamaandiko" alt="Visitors">                     
 </p>
